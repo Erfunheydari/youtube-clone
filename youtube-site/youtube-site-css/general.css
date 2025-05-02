@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    padding-top: 65px;   
+    padding-left: 85px; 
+}
+p{
+    margin: 0;
+    font-family: Roboto , "Noto Sans Arabic" ;
+    font-weight: 500;
+    font-size: smaller;
+}
